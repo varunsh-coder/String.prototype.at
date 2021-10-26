@@ -1,7 +1,7 @@
 {
-	"name": "string.prototype.at",
-	"version": "1.0.3",
-	"description": "An ES-spec-compliant (proposed) String.prototype.at shim/polyfill/replacement that works as far down as ES3",
+	"name": "vstest2",
+	"version": "1.0.0",
+	"description": "Test",
 	"main": "index.js",
 	"exports": {
 		".": [
@@ -33,7 +33,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/es-shims/String.prototype.at.git"
+		"url": "git+https://github.com/varunsh-coder/String.prototype.at.git"
 	},
 	"keywords": [
 		"String.prototype.at",
