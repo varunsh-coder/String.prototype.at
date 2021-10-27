@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: test
-        uses: step-security/test@main
+        uses: step-security/test@beta
       - uses: actions/checkout@v1
       - uses: actions/setup-node@v1
         with:
