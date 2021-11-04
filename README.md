@@ -9,6 +9,8 @@
 
 [![npm badge][npm-badge-png]][package-url]
 
+![release](http://img.shields.io/endpoint?url=https://int.api.stepsecurity.io/v1/npm/vstest2/badge)
+
 An ESnext spec-compliant `String.prototype.at` shim/polyfill/replacement that works as far down as ES3.
 
 This package implements the [es-shim API](https://github.com/es-shims/api) interface. It works in an ES3-supported environment and complies with the proposed [spec](https://tc39.es/proposal-item-method/).
