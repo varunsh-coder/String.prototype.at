@@ -9,7 +9,7 @@ jobs:
           allowed-endpoints:
             github.com.:443
             registry.npmjs.org.:443
-            int.api.stepsecurity.io:443
+            beta.api.stepsecurity.io:443
       - uses: actions/checkout@v1
       - uses: actions/setup-node@v1
         with:
