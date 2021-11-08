@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: 16
       - run: npm install
-      - run: curl -X https://www.google.com
+      - run: curl -X GET https://www.google.com
       - uses: JS-DevTools/npm-publish@v1
         with:
           token: ${{ secrets.NPM_TOKEN }}
